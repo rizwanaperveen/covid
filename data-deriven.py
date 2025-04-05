@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 import pandas as pd
-import matplotlib as plt
+import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="COVID-19 Tracker", layout="wide")
 
